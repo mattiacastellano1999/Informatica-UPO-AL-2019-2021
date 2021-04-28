@@ -4,7 +4,11 @@ Miei appunti della triennale di Informatica di Alessandria
 
 ## 3 Anno
 
-### FLT2
+### FLT1 --> Terenziani
+- Teoria:
+  - https://docs.google.com/document/d/12ebhnIWzjCK7FlwSmm80KBeuzaNOyq1D6NqKL2UVTxo/edit?usp=sharing
+
+### FLT2 --> Duprè
 - Domande e Risposte Prove Vecchie: 
   - https://docs.google.com/document/d/1MPcLGquAngRUaEcQdmZ_zLEAKMjBm53Xccrs9Ts1x_Q/edit?usp=sharing
 - Traduzione diretta della sintassi: 
