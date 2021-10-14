@@ -6,19 +6,15 @@ Miei appunti della triennale di Informatica di Alessandria
 
 ### FLT1 --> Terenziani
 - Teoria:
-  - https://docs.google.com/document/d/12ebhnIWzjCK7FlwSmm80KBeuzaNOyq1D6NqKL2UVTxo/edit?usp=sharing
+  - [Definizioni 1 esonero.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345295/Definizioni.1.esonero.pdf)
 
 ### FLT2 --> Duprè
-- Domande e Risposte Prove Vecchie: 
-  - https://docs.google.com/document/d/1MPcLGquAngRUaEcQdmZ_zLEAKMjBm53Xccrs9Ts1x_Q/edit?usp=sharing
-- Traduzione diretta della sintassi: 
-  - https://docs.google.com/document/d/1xyg59sa_scKXSjM2Fik5aZ1PUfFBcFRaVb14yQVicao/edit?usp=sharing
-- Generazione Codice Intermedio: 
-  - https://docs.google.com/document/d/1vQ8HoVuntnI_99Sgdg0RMmx6N8J54caLpSV2aTiUApU/edit?usp=sharing
-- Analisi Dei Tipi: 
-  - https://docs.google.com/document/d/1UY8owSTWAHeDONjRnvKO_A2vy12-O1uS6bzcH_QpIsM/edit?usp=sharing
-- Traduzione di Espressioni Booleane: 
-  - https://docs.google.com/document/d/1CfhXZ-E3Ly78G7iDfG_MeH2Ch56Uw7-4MYzObjcJ8H0/edit?usp=sharing
+- Lezioni
+  - [0_Traduzione diretta della sintassi.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345084/0_Traduzione.diretta.della.sintassi.pdf)
+  - [1_Generazione Codice Intermedio.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345085/1_Generazione.Codice.Intermedio.pdf)
+  - [2_Analisi Dei Tipi.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345086/2_Analisi.Dei.Tipi.pdf)
+  - [3_Traduzioneo di espressioni Booleane.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345087/3_Traduzioneo.di.espressioni.Booleane.pdf)
+
 
 ### PISSIR --> Giordana
 - Esercizi da consegnare
