@@ -25,3 +25,15 @@ Miei appunti della triennale di Informatica di Alessandria
   - [Chat_MQTT_20031813.zip](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7344917/Chat_MQTT_20031813.zip)
   - [ChatTLS_20031813.zip](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7344919/ChatTLS_20031813.zip)
   - [Es3_20031813.zip](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7344922/Es3_20031813.zip)
+
+- Lezioni
+  - [0_Facciamo un po di Chiarezza.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345013/0_Facciamo.un.po.di.Chiarezza.pdf)
+  - [1_Datalink Layer.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345015/1_Datalink.Layer.pdf)
+  - [2_Ethernet.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345016/2_Ethernet.pdf)
+  - [3_IP vs MAC & ARP.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345017/3_IP.vs.MAC.ARP.pdf)
+  - [4_Reti Wireless.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345018/4_Reti.Wireless.pdf)
+  - [5_Rete Cellulare.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345019/5_Rete.Cellulare.pdf)
+  - [6_Bluetooth.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345020/6_Bluetooth.pdf)
+  - [7_Elementi Di Sicurezza.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345021/7_Elementi.Di.Sicurezza.pdf)
+  - [8_E-Mail Sicura.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345022/8_E-Mail.Sicura.pdf)
+  - [9_SSL - SSH.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345023/9_SSL.-.SSH.pdf)
