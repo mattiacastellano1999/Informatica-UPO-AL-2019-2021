@@ -19,3 +19,9 @@ Miei appunti della triennale di Informatica di Alessandria
   - https://docs.google.com/document/d/1UY8owSTWAHeDONjRnvKO_A2vy12-O1uS6bzcH_QpIsM/edit?usp=sharing
 - Traduzione di Espressioni Booleane: 
   - https://docs.google.com/document/d/1CfhXZ-E3Ly78G7iDfG_MeH2Ch56Uw7-4MYzObjcJ8H0/edit?usp=sharing
+
+### PISSIR --> Giordana
+- Esercizi da consegnare
+  - [Chat_MQTT_20031813.zip](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7344917/Chat_MQTT_20031813.zip)
+  - [ChatTLS_20031813.zip](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7344919/ChatTLS_20031813.zip)
+  - [Es3_20031813.zip](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7344922/Es3_20031813.zip)
