@@ -33,3 +33,20 @@ Miei appunti della triennale di Informatica di Alessandria
   - [7_Elementi Di Sicurezza.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345021/7_Elementi.Di.Sicurezza.pdf)
   - [8_E-Mail Sicura.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345022/8_E-Mail.Sicura.pdf)
   - [9_SSL - SSH.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7345023/9_SSL.-.SSH.pdf)
+
+
+## 2 Anno
+
+### Sistemi Operativi 1 --> Duprè
+- Lab & Tips
+  - [LAB.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7395419/LAB.pdf)
+  - [Risposte A Prove Vecchie.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7395422/Risposte.A.Prove.Vecchie.pdf)
+  - [Tips.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7395424/Tips.pdf)
+
+- Lezioni
+  - [0_Introduzione.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7395425/0_Introduzione.pdf)
+  - [1_Processi e Threads .pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7395427/1_Processi.e.Threads.pdf)
+  - [2_Sincronizzazione.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7395428/2_Sincronizzazione.pdf)
+  - [3_Scheduling.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7395429/3_Scheduling.pdf)
+  - [4_Gestione della Memoria.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7395430/4_Gestione.della.Memoria.pdf)
+  - [Riassunti.pdf](https://github.com/mattiacastellano1999/Informatica-UPO-AL-2019-2021/files/7395433/Riassunti.pdf)
